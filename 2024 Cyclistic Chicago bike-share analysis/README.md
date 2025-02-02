@@ -12,7 +12,7 @@ This project utilizes datasets from the Google Data Analytics Capstone Course:
 
 ## Article
 To get a deeper dive into the analysis, look to:
-- 
+- https://medium.com/@easg9953/2024-cyclistic-chicago-bike-share-analysis-converting-casual-riders-to-annual-members-2bc97a3cdc73
 
 ## Contact
 For any questions:
